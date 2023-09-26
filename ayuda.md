@@ -6,11 +6,11 @@ git init/git config --global init.defaultBranch main/git branch -m main/git remo
 
 `Subir o bajar archivos del repositorio`
 
-`git add "name".md`
+git add "name".md
 
-`git commit -m "first commit"`
+git commit -m "first commit"
 
-`git push -u origin main`
+git push -u origin main
 
 **docker-compose**
 
