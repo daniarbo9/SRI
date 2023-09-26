@@ -13,7 +13,7 @@ git commit -m "first commit"
 git push -u origin main
 
 ---------------------------
-**Docker**
+**Docker>**
 **docker-compose**
 
 `se usa para crear un contenedor`
