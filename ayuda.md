@@ -14,22 +14,22 @@
 
 ---------------------------
 **Docker>**
-**docker-compose**
+    **docker-compose**
 
-`se usa para crear un contenedor`
+        `se usa para crear un contenedor`
 
-services: 
+        services: 
 
-  asir_web1:
+            asir_web1:
 
-    image: httpd:2.4
+            image: httpd:2.4
 
-    ports: 
+            ports: 
 
-     - "8080:80"
+            - "8080:80"
 
-    volumes:
+          volumes:
 
-     - ./paginas:/usr/local/apache2/htdocs
+           - ./paginas:/usr/local/apache2/htdocs
 
-    container_name: asir_web1
+           container_name: asir_web1
