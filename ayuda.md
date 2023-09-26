@@ -1,10 +1,10 @@
-`Github`
+**Github**
 
-**Crear repositorio**
+`Crear repositorio`
 
 git init/git config --global init.defaultBranch main/git branch -m main/git remote add origin https://github.com/daniarbo9/SRI.git(Con los datos de la web)
 
-**Subir o bajar archivos del repositorio**
+`Subir o bajar archivos del repositorio`
 
 `git add "name".md`
 
@@ -14,7 +14,7 @@ git init/git config --global init.defaultBranch main/git branch -m main/git remo
 
 **docker-compose**
 
-se usa para crear un contenedor
+`se usa para crear un contenedor`
 
 services: 
   asir_web1:
