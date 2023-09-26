@@ -38,6 +38,7 @@ Nada,el contenedor continua encendido.
 Si.Con el comando docker stats se puede ver el uso de cada contenedor activo.
 
 226,4mb es el tamaño de los contenedores
+
 8. ¿Cuanta RAM ocupan los contenedores? Crea cuantos contenedores necesites para calcularlo.
 
 ubi 1mb ubi2 4,5
