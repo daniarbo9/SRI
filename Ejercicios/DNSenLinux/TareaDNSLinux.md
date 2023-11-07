@@ -19,5 +19,18 @@
 
 ![Alt text](imagenes/4.png)
 
-## 7.Compruebo con dig que todo funciona correctamente
+## 7.Miro a que ip tengo que hacer el ping con netstat -putan
 
+![Alt text](imagenes/7.png)
+
+## 8.Compruebo con dig que todo funciona correctamente
+
+![Alt text](imagenes/6.png)
+
+## 9.Cambio la configuracion de ethernet a bridge,compruebo la ip de la puerta de bind y intento hacer consultas desde el anfitrion al bind de la maquina virtual
+
+![Alt text](imagenes/9.png)
+
+![Alt text](imagenes/10.png)
+
+![Alt text](imagenes/8.png)
