@@ -42,19 +42,23 @@
         un registro de texto con el contenido "1234ASDF"
         Comprueba que todo funciona con el comando "dig"
         Muestra en los logs que el servicio arranca correctamente
-    
-    Ejercicio hecho en zonas,logs en img
+
+![Alt text](img/Screenshot_20231113_174701.png)
+
+
+![Alt text](img/Screenshot_20231113_164847.png)
+
 #
     10.Realiza el apartado 9 en la máquina virtual con DNS
 
 Creo la zona
 
-![Alt text](img/Screenshot_20231113_171525.png)
+![Alt text](image.png)
 
 Modifico los registros
 
-![Alt text](img/Screenshot_20231113_172605.png)
+![Alt text](img/Screenshot_20231113_174211.png)
 
-Creo servicio bind
+Servicio en funcionamiento
 
 ![Alt text](img/Screenshot_20231113_170632.png)
