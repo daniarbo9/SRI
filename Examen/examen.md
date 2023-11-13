@@ -53,7 +53,7 @@
 
 Creo la zona
 
-![Alt text](image.png)
+![Alt text](img/image.png)
 
 Modifico los registros
 
