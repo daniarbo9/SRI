@@ -35,7 +35,7 @@
     8.¿Como puedo hacer para que la configuración de un contenedor DNS no se borre si creo otro contenedor?
 
     Haciendo una copia de seguridad antes de crear el nuevo contenedor.
-    
+#    
     9.Añade una zona tiendadeelectronica.int en tu docker DNS que tenga
         www a la IP 172.16.0.1
         owncloud sea un CNAME de www
@@ -44,7 +44,17 @@
         Muestra en los logs que el servicio arranca correctamente
     
     Ejercicio hecho en zonas,logs en img
-
+#
     10.Realiza el apartado 9 en la máquina virtual con DNS
 
-    
+Creo la zona
+
+![Alt text](img/Screenshot_20231113_171525.png)
+
+Modifico los registros
+
+![Alt text](img/Screenshot_20231113_172605.png)
+
+Creo servicio bind
+
+![Alt text](img/Screenshot_20231113_170632.png)

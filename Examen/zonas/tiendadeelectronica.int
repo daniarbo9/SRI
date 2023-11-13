@@ -7,6 +7,6 @@ $TTL 38400	; 10 hours 40 minutes
 				38400      ; minimum (10 hours 40 minutes)
 				)
 @		IN NS	tiendadeelectronica.int.
-www		IN A		172.16.0.1
+www		IN A	172.16.0.1
 owncloud	IN CNAME	www
-1234ASDF IN TXT 	mensaje
+mensaje IN TXT	"1234ASDF"
