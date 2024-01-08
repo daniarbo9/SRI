@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "Examen2",
+			"path": "../../../Examen2"
+		},
+		{
+			"name": "confApache",
+			"path": "."
+		},
+		{
+			"name": "paginas",
+			"path": "../paginas"
+		}
+	],
+	"settings": {}
+}

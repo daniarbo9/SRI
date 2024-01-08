@@ -1,0 +1,31 @@
+version: '3'
+
+services:
+  asir-apache:
+    image: httpd:2.4
+    container_name: asir-apache
+    ports:
+      - '8000:80'
+    networks:
+      proyectoApache_subnet:
+        ipv4_address: 172.31.0.3
+    dns:
+      - 172.31.0.2
+    volumes:
+      - ./paginas:/usr/local/apache2/htdocs
+      - ./confApache:/etc/apache2
+  bind9:
+    container_name: asir_bind9
+    image: ubuntu/bind9
+    ports:
+      - 53:53/tcp
+      - 53:53/udp
+    networks:
+      proyectoApache_subnet:
+        ipv4_address: 172.31.0.2
+    volumes:
+      - ./conf:/etc/bind
+      - ./zonas:/var/lib/bind
+networks:
+  proyectoApache_subnet: 
+    external: true

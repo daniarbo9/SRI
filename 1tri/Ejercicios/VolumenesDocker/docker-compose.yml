@@ -1,0 +1,24 @@
+services:
+  asir_httpd:
+    image: httpd:2.4 
+    ports:
+      - "8000:80"
+    volumes:
+      - ./:/usr/local/apache2/htdocs
+    container_name: asir_httpd
+  asir_web1:
+    image: httpd:2.4 
+    ports:
+      - "8050:8000"
+    volumes:
+      - ./:/usr/local/apache2/htdocs
+    container_name: asir_web1
+  asir_web2:
+    image: httpd:2.4 
+    ports:
+      - "9080:80"
+    volumes:
+      - ./:/usr/local/apache2/htdocs
+    container_name: asir_web2  
+    
+    

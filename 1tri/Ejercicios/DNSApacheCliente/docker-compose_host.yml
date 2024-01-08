@@ -1,0 +1,23 @@
+version: '3'
+
+services:
+  asir-host1:
+    image: ubuntu
+    container_name: asir-host1
+    stdin_open: true
+    tty: true
+    networks:
+      proyectoApache_subnet:
+        ipv4_address: 172.31.0.5
+  asir-host2:
+    container_name: asir-host2
+    image: ubuntu
+    stdin_open: true
+    tty: true
+    networks:
+      proyectoApache_subnet:
+        ipv4_address: 172.31.0.4
+    
+networks:
+  proyectoApache_subnet: 
+    external: true
