@@ -8,9 +8,8 @@ IP’s
 ip equipo1
 
 ![](https://github.com/daniarbo9/SRI/blob/main/imagenes/Screenshot_20240228_165725.png)
-							ip equipo2					
 
-
+ip equipo2					
 
 Primero en el equipo1 genero la clave pública y privada 
 
