@@ -36,27 +36,27 @@ Como configurar el acceso ssh en el GitHub
 
 Para configurar el acceso ssh en github primero accedemos al apartado ssh keys en github
 
-![](https://github.com/daniarbo9/SRI/blob/main/imagenes/Screenshot_20240228_165725.png)
+![](https://github.com/daniarbo9/SRI/blob/main/imagenes/Screenshot_20240228_165813.png)
 
 menú github
 Ahora con el equipo1 copio la clave pública
 
-![](https://github.com/daniarbo9/SRI/blob/main/imagenes/Screenshot_20240228_165725.png)
+![](https://github.com/daniarbo9/SRI/blob/main/imagenes/Screenshot_20240228_165831.png)
 
 clave publica copiada
 y la pego en add new ssh key
 
-![](https://github.com/daniarbo9/SRI/blob/main/imagenes/Screenshot_20240228_165725.png)
+![](https://github.com/daniarbo9/SRI/blob/main/imagenes/Screenshot_20240228_165851.png)
 
 clave a guardar
 
-![](https://github.com/daniarbo9/SRI/blob/main/imagenes/Screenshot_20240228_165725.png)
+![](https://github.com/daniarbo9/SRI/blob/main/imagenes/Screenshot_20240228_165858.png)
 
 clave creada
 
 Y ya deberia conectar pero no es el caso
 
-![](https://github.com/daniarbo9/SRI/blob/main/imagenes/Screenshot_20240228_165725.png)
+![](https://github.com/daniarbo9/SRI/blob/main/imagenes/Screenshot_20240228_165906.png)
 
 conexión no permitida
 
