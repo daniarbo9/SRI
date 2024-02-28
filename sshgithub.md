@@ -2,12 +2,12 @@ Realiza un Readme con los pasos para hacer la siguiente tarea, incluyendo comand
 Conectarse al usuario admin de otra máquina por medio de claves publica y privado
 
 IP’s
+![](https://github.com/daniarbo9/SRI/blob/main/imagenes/Screenshot_20240228_165713.png)
 
 
 
 
-
-ip esquipo1							ip equipo2					
+ip equipo1							ip equipo2					
 
 
 
