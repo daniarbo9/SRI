@@ -14,20 +14,20 @@ ip equipo1
 
 Primero en el equipo1 genero la clave pública y privada 
 
-![](https://github.com/daniarbo9/SRI/blob/main/imagenes/Screenshot_20240228_165725.png)
+![](https://github.com/daniarbo9/SRI/blob/main/imagenes/Screenshot_20240228_165737.png)
 
 clave generada
 
 Después copio la clave generada en el equipo2 que es al que quiero acceder
 
-![](https://github.com/daniarbo9/SRI/blob/main/imagenes/Screenshot_20240228_165725.png)
+![](https://github.com/daniarbo9/SRI/blob/main/imagenes/Screenshot_20240228_165750.png)
 
 clave copiada en el equipo2
 
 
 Ahora toca comprobar si nos permite conectarnos remotamente
 
-![](https://github.com/daniarbo9/SRI/blob/main/imagenes/Screenshot_20240228_165725.png)
+![](https://github.com/daniarbo9/SRI/blob/main/imagenes/Screenshot_20240228_165804.png)
 
 conexión ssh realizada
 
