@@ -38,11 +38,13 @@ Para configurar el acceso ssh en github primero accedemos al apartado ssh keys e
 ![](https://github.com/daniarbo9/SRI/blob/main/imagenes/Screenshot_20240228_165813.png)
 
 menú github
+
 Ahora con el equipo1 copio la clave pública
 
 ![](https://github.com/daniarbo9/SRI/blob/main/imagenes/Screenshot_20240228_165831.png)
 
 clave publica copiada
+
 y la pego en add new ssh key
 
 ![](https://github.com/daniarbo9/SRI/blob/main/imagenes/Screenshot_20240228_165851.png)
